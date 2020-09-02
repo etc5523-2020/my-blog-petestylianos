@@ -1,0 +1,12 @@
+---
+title: "COVID-19 the case of Qatar"
+author: "Panagiotis Stylianos"
+date: "02/09/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is my first blog-post. In this repository you can find the contents of the blog spot, which can also be found at my [website](https://panagiotis-stylianos.netlify.app)
